@@ -1,5 +1,21 @@
 <details>
 
+<summary> ✏ issue 작성 형식 </summary>
+<div markdown="1">
+
+- issue는 기능을 구현하기 전에 생성하고 기능을 구현해봅시당!! pr을 날릴때 생성한 이슈를 태그하면 merge가 되면 이슈가 자동으로 닫힙니다~
+- issues 탭을 눌러보면 아래와 같이 template을 생성했습니다. 아래 template으로 이슈를 작성하면 좋을것 같아요~
+
+<img width="1202" alt="image" src="https://github.com/Yang-soeun/wordle/assets/87464750/5d87911a-aa63-428a-8437-011095329123">
+
+이슈를 생성할때 아래에 생성된 라벨들을 붙여서 이슈를 생성하면 좋아요~
+
+<img width="326" alt="image" src="https://github.com/Yang-soeun/wordle/assets/87464750/d952e327-5fe2-4139-96eb-3ddee73d52ce">
+   
+</details>
+
+<details>
+
 <summary> ✏ commit 컨밴션 </summary>
 <div markdown="1">
 
@@ -17,12 +33,6 @@
 > [FEAT]: 힌트 기능 구현
 >
 > 자리가 같으면 스트라이크 다르면 볼 없으면 낫싱이 나오도록 구현
-
-
-
-이슈를 생성할때 아래에 생성된 라벨들을 붙여서 이슈를 생성하면 좋아요~
-
-   <img width="326" alt="image" src="https://github.com/Yang-soeun/wordle/assets/87464750/d952e327-5fe2-4139-96eb-3ddee73d52ce">
    
 </details>
 
