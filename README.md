@@ -1,3 +1,24 @@
+<details>
+
+<summary> ✏ commit 컨밴션 </summary>
+<div markdown="1">
+
+```
+[FEAT]: 기능 추가
+[DOCS]: 문서 작성
+[REFACTOR]: 리팩토링
+[FIX]: 오류 수정
+[TEST]: 테스트 코드 추가
+[STYLE]: 네이밍 수정
+```
+
+pr을 날릴때 아래에 생성된 라벨들을 붙여서 pr 하면 좋아요~
+
+   <img width="326" alt="image" src="https://github.com/Yang-soeun/wordle/assets/87464750/d952e327-5fe2-4139-96eb-3ddee73d52ce">
+   
+</details>
+
+
 # 자바 학습을 위한 wordle 프로젝트
 
 ## 🛠️기능 요구 사항
