@@ -10,7 +10,7 @@ assignees: ''
 ## Description
 
 ## To-do
-- [] todo1
-- [] todo2
+- [ ] todo1
+- [ ] todo2
 
 ## ETC
